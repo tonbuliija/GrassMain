@@ -1,0 +1,82 @@
+{
+  "quantityRunesMint": [
+    1,
+    1
+  ],
+  "sleep": [
+    10,
+    10
+  ],
+  "runesMint": [
+    {
+      "runeID": "864414:1006",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "864148:2400",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "864240:79",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "840002:2997",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "853635:800",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "847605:2061",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "853584:883",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "856168:1160",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "840000:219",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "853543:112",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "840000:130",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "845364:1399",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "863036:1715",
+      "price": 330,
+      "count": 1
+    },
+    {
+      "runeID": "862869:5445",
+      "price": 330,
+      "count": 1
+    }
+  ]
+}

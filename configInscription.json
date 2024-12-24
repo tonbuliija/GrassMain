@@ -1,0 +1,75 @@
+{
+  "quantityMint": [
+    2,
+    10
+  ],
+  "sleep": [
+    40,
+    140
+  ],
+  "inscriptionMint": [
+    {
+      "name": "malt",
+      "price": 330,
+      "amount": 1000,
+      "count": 1
+    },
+    {
+      "name": "DNFS",
+      "price": 330,
+      "amount": 1000,
+      "count": 1
+    },
+    {
+      "name": "hive",
+      "price": 330,
+      "amount": 1000,
+      "count": 1
+    },    {
+      "name": "KAMA",
+      "price": 330,
+      "amount": 2100,
+      "count": 1
+    },    {
+      "name": "HTXB",
+      "price": 330,
+      "amount": 500,
+      "count": 1
+    },    {
+      "name": "Fivo",
+      "price": 330,
+      "amount": 1000,
+      "count": 1
+    },    {
+      "name": "fufi",
+      "price": 330,
+      "amount": 2097420170,
+      "count": 1
+    },    {
+      "name": "3333",
+      "price": 330,
+      "amount": 33,
+      "count": 1
+    },    {
+      "name": "xpay",
+      "price": 330,
+      "amount": 100,
+      "count": 1
+    },    {
+      "name": "BBTC",
+      "price": 330,
+      "amount": 10,
+      "count": 1
+    },    {
+      "name": "card",
+      "price": 330,
+      "amount": 100000,
+      "count": 1
+    },    {
+      "name": "amor",
+      "price": 330,
+      "amount": 1000,
+      "count": 1
+    }
+  ]
+}

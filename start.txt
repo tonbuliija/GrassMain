@@ -1,0 +1,2 @@
+chmod +x START_Mac.sh - Один раз
+sh ./START_Mac.sh - Для запуска
